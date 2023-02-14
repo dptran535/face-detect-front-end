@@ -1,9 +1,2 @@
-# SmartBrain - v3
-Final project for ZTM course
-
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-
-*visist https://zerotomastery.io/ for more*
+# Smart Brain
+A face detection app where users may register, sign in, and then upload an image containing a face. A bounding box is then drawn around the face and a record of how images a user has uploaded is kept.
